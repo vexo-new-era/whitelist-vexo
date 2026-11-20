@@ -29,12 +29,18 @@
       "id": "1947366714",
       "username": "accf4hmiiv2",
       "first_name": "Support CoinDesk Service"
+    },
+    {
+      "id": "8527515580",
+      "username": "",
+      "first_name": "Fahri"
     }
   ],
   "startedUserIds": [
     "1631817219",
     "8818835503",
     "8632639215",
-    "1947366714"
+    "1947366714",
+    "8527515580"
   ]
 }
